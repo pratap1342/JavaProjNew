@@ -1,0 +1,9 @@
+This file is created for stash practice purpose,
+
+file1 before stash.
+
+ThankYou :)
+
+came agian after >git stash apply cmd.
+
+file created in folder->git add stash1.txt->git stash->[**file invisible from the folder & stored in temp file**]->now you can work on new task->after completing new task->git stash apply->file visible,now you are working on prev task.
